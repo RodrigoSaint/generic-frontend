@@ -9,7 +9,13 @@
         "dontHaveAccount": "Don't haven an account?",
         "signup": "Sign up"
     },
-    "page_title": "Page title",
-    "sign_in": "Sign in",
-    "sign_up": "Sign up"
+    "home": {
+        "hero": {
+            "captureEmail": {
+                "header": "Build Better Products",
+                "description": "Introducing a new way for your brand to reach the creative community.",
+                "cta": "Request demo"
+            }
+        }
+    }
 }
