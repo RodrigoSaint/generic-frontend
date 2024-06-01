@@ -1,21 +1,47 @@
 {
-    "login": {
-        "login": "Login",
-        "email": "Email",
-        "password": "Password",
-        "forgotPassword": "Don't have an account?",
-        "enterEmail": "Enter your email below to login to your account",
-        "loginGoogle": "Login with Google",
-        "dontHaveAccount": "Don't haven an account?",
-        "signup": "Sign up"
-    },
-    "home": {
-        "hero": {
-            "captureEmail": {
-                "header": "Build Better Products",
-                "description": "Introducing a new way for your brand to reach the creative community.",
-                "cta": "Request demo"
-            }
-        }
+  "login": {
+    "login": "Login",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Don't have an account?",
+    "enterEmail": "Enter your email below to login to your account",
+    "loginGoogle": "Login with Google",
+    "dontHaveAccount": "Don't haven an account?",
+    "signup": "Sign up"
+  },
+  "home": {
+    "hero": {
+      "captureEmail": {
+        "header": "Build Better Products",
+        "description": "Introducing a new way for your brand to reach the creative community.",
+        "cta": "Request demo"
+      }
     }
+  },
+  "common": {
+    "plans": {
+      "header": "Pricing",
+      "description": "Whatever your status, our offers evolve according to your needs.",
+      "monthly": "Monthly",
+      "annual": "Annual",
+      "mostPopular": "Most Popular",
+      "signup": "Sign up",
+      "free": {
+        "title": "Free",
+        "description": "Forever free"
+      },
+      "startup": {
+        "title": "Startup",
+        "description": "All the basics for starting a new business"
+      },
+      "team": {
+        "title": "Team",
+        "description": "Everything you need for a growing business"
+      },
+      "enterprise": {
+        "title": "Enterprise",
+        "description": "Advanced features for scaling your business"
+      }
+    }
+  }
 }
